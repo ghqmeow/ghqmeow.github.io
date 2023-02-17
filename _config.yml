@@ -97,7 +97,7 @@ service-worker: true
 
 
 # Friends
-Related: [
+friends: [
     {
         title: "PNU",
         href: "https://www.pusan.ac.kr"
