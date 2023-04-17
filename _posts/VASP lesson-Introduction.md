@@ -10,7 +10,28 @@ tags:								#标签
     - VASP
 ---
 
-## Hey
->这是我的第一篇博客。
+## VASP
+>The Vienna Ab initio Simulation Package, better known as VASP, is a package for performing ab initio quantum mechanical calculations using either Vanderbilt pseudopotentials, or the projector augmented wave method, and a plane wave basis set(from wikipedia).
 
-进入你的博客主页，新的文章将会出现在你的主页上.
+To begin with, there are some apps and books you might need to know~
+
+## BOOKs
+<Density Functional Theory: A Practical Introduction> by David S. Sholl (Author), Janice A. Steckel 
+Everyone should read this. By the book, we can easily understand what DFT is, and how we solve physical or chemistry problems by DFT.
+    ![image](https://user-images.githubusercontent.com/125636828/232379232-750e6436-4258-434c-b440-51fbb0ef5b19.png)
+
+<The VASP Manual - Vaspwiki> https://www.vasp.at/wiki/index.php/The_VASP_Manual
+    At present, the vasp manual has been changed to wike format, which is more convenient and fast to use.
+
+## APPs
+
+VASP is working under Linux, rather than Windows. So it is controled by code!
+    
+## linux commands 
+linux commands might be different under different version(CentOS, Ubuntu...) and different job management system(pbs, slurm...)
+    
+    Here are some commands under CentOS and pbs:
+    showq
+    
+    
+    
