@@ -15,6 +15,8 @@ tags:								#标签
 
 To begin with, there are some apps and books you might need to know~
 
+***
+
 ## BOOKs
 <Density Functional Theory: A Practical Introduction> by David S. Sholl (Author), Janice A. Steckel 
 Everyone should read this. By the book, we can easily understand what DFT is, and how we solve physical or chemistry problems by DFT.
@@ -24,11 +26,12 @@ Everyone should read this. By the book, we can easily understand what DFT is, an
 <The VASP Manual - Vaspwiki> https://www.vasp.at/wiki/index.php/The_VASP_Manual
     At present, the vasp manual has been changed to wike format, which is more convenient and fast to use.
 
+***
 ## APPs
 
 VASP is working under Linux, rather than Windows. So it is controled by code!
     
-## linux commands 
+### linux commands 
 linux commands might be different under different version(CentOS, Ubuntu...) and different job management system(pbs, slurm...)
     
     Here are some commands under CentOS and pbs:
