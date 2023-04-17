@@ -20,13 +20,13 @@ To begin with, there are some apps and books you might need to know~
 
 ## BOOKs
 
-<Density Functional Theory:A Practical Introduction>by David S. Sholl (Author), Janice A. Steckel 
+<<Density Functional Theory:A Practical Introduction>>by David S. Sholl (Author), Janice A. Steckel 
 
 Everyone should read this. By the book, we can easily understand what DFT is, and how we solve physical or chemistry problems by DFT.
     
     ![image](img/dftbook.jpg)
 
-<The VASP Manual - Vaspwiki> https://www.vasp.at/wiki/index.php/The_VASP_Manual
+<<The VASP Manual - Vaspwiki>> https://www.vasp.at/wiki/index.php/The_VASP_Manual
     
 At present, the vasp manual has been changed to wike format, which is more convenient and fast to use.
 
