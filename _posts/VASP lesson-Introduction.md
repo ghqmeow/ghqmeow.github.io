@@ -20,7 +20,7 @@ To begin with, there are some apps and books you might need to know~
 
 ## BOOKs
 
-<Density Functional Theory: A Practical Introduction> by David S. Sholl (Author), Janice A. Steckel 
+<Density Functional Theory:A Practical Introduction>by David S. Sholl (Author), Janice A. Steckel 
 
 Everyone should read this. By the book, we can easily understand what DFT is, and how we solve physical or chemistry problems by DFT.
     
