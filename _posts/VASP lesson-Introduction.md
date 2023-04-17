@@ -11,6 +11,7 @@ tags:								#标签
 ---
 
 ## VASP
+
 >The Vienna Ab initio Simulation Package, better known as VASP, is a package for performing ab initio quantum mechanical calculations using either Vanderbilt pseudopotentials, or the projector augmented wave method, and a plane wave basis set(from wikipedia).
 
 To begin with, there are some apps and books you might need to know~
@@ -18,6 +19,7 @@ To begin with, there are some apps and books you might need to know~
 ***
 
 ## BOOKs
+
 <Density Functional Theory: A Practical Introduction> by David S. Sholl (Author), Janice A. Steckel 
 
 Everyone should read this. By the book, we can easily understand what DFT is, and how we solve physical or chemistry problems by DFT.
