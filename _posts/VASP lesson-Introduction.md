@@ -38,7 +38,18 @@ VASP is working under Linux, rather than Windows. So it is controled by code!
 linux commands might be different under different version(CentOS, Ubuntu...) and different job management system(pbs, slurm...)
     
     Here are some commands under CentOS and pbs:
-    showq
+    showq   to check what jobs are in the cluster.
     
+    'qstat'  to check details about jobs.
     
+    'pestat'  to check the nodes information.
     
+    'qdel 123456'  to kill the job 123456.
+    
+    'rm abc'  to delect file 'abc'
+    
+    'rm -rf abc' to delect the folder '/abc'
+    
+    'qsub pbs' to run the caculation job
+    
+    'chmod 777 abc' to give the file 'abc' read and write permissions.
